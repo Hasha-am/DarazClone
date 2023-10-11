@@ -1,0 +1,39 @@
+.homebody{
+    background-color: orange;
+}
+#homeblog{
+    margin: 50px;
+}
+h1{
+    color: orange;
+}
+h2{
+    color: rgb(0, 0, 0);
+}
+#aboutblog{
+    margin-left: 10%; 
+    margin-right: 10%; 
+}
+#aboutblog1{
+    margin-left: 10%; 
+    margin-right: 10%; 
+
+}
+#aboutblog2{
+    margin-left: 10%; 
+    margin-right: 10%; 
+}
+#aboutblog3{
+    margin-left: 10%; 
+    margin-right: 10%; 
+    
+}
+#contactform{
+    margin-top: 50px;
+}
+.footerabout{
+    background-color: #Ffc107;
+}
+.footercontact{
+    background-color: #Ffc107;
+}
